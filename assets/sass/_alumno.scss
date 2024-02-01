@@ -1,0 +1,167 @@
+.container {
+    display: flex;
+    flex-direction: column;
+    flex-wrap: nowrap;
+    justify-content: center;
+    align-items: center;
+    gap: 2rem;
+
+    padding: 0px 15rem;
+
+    padding-top: 20rem;
+}
+
+.superior,
+.inferior {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+    gap: 20px;
+}
+
+h2 {
+    position: absolute;
+    bottom: -30px;
+    left: 50%;
+    transform: translate(-50%);
+    background-image: url("../img/fondo.png");
+    width: fit-content;
+}
+
+@mixin contendorEspecialista($url) {
+    position: relative;
+
+    width: 6.5rem;
+    height: 6.5rem;
+
+    border-radius: 50%;
+
+    -webkit-box-shadow: 0px 0px 6px 0px rgba(0, 0, 0, 0.5);
+    -moz-box-shadow: 0px 0px 6px 0px rgba(0, 0, 0, 0.5);
+    box-shadow: 0px 0px 6px 0px rgba(0, 0, 0, 0.5);
+
+    background-image: url($url);
+    background-size: cover;
+
+}
+
+.container-alumno--1 {
+    @include contendorEspecialista("../video/ANDRES.webp");
+}
+
+.container-alumno--2 {
+    @include contendorEspecialista("../video/ANTONIO.webp");
+}
+
+.container-alumno--3 {
+    @include contendorEspecialista("../video/BLANCAS.webp");
+    background-position: 0px -20px;
+}
+
+.container-alumno--4 {
+    @include contendorEspecialista("../video/CADENILLAS.webp");
+}
+
+.container-alumno--5 {
+    @include contendorEspecialista("../video/CARABALLO.webp");
+}
+
+.container-alumno--6 {
+    @include contendorEspecialista("../video/CARABANTE.webp");
+}
+
+.container-alumno--7 {
+    @include contendorEspecialista("../video/JULIA.webp");
+    background-position: 0px -20px;
+}
+
+.container-alumno--8 {
+    @include contendorEspecialista("../video/JUANJO.webp");
+}
+
+.container-alumno--9 {
+    @include contendorEspecialista("../video/NATAN.webp");
+    background-position: 0px -20px;
+}
+
+.container-alumno--10 {
+    @include contendorEspecialista("../video/CRESPO.webp");
+}
+
+.container-alumno--11 {
+    @include contendorEspecialista("../video/RAMON.webp");
+}
+
+.container-alumno--12 {
+    @include contendorEspecialista("../video/JOSELUIS.webp");
+}
+
+.container-alumno--13 {
+    @include contendorEspecialista("../video/ANA.webp");
+    background-position: 0px -20px;
+}
+
+.container-alumno--14 {
+    @include contendorEspecialista("../video/MOISES.webp");
+}
+
+.container-alumno--15 {
+    @include contendorEspecialista("../video/ALEJANDRO.webp");
+    background-position: 0px -20px;
+}
+
+.container-alumno--16 {
+    @include contendorEspecialista("../video/REY.webp");
+    background-position: 0px -20px;
+}
+
+.container-alumno--17 {
+    @include contendorEspecialista("../video/SANCHEZ.webp");
+}
+
+.container-alumno--18 {
+    @include contendorEspecialista("../video/PABLO.webp");
+}
+
+.container-alumno--19 {
+    @include contendorEspecialista("../video/JAVIER.webp");
+
+}
+
+.container-alumno--20 {
+    @include contendorEspecialista("../video/EDUARDO.webp");
+    background-position: 0px -20px;
+}
+
+.container-alumno--22 {
+    @include contendorEspecialista("../video/CRISTINACARMEN.webp");
+    background-position: 0px -25px;
+}
+
+.container-alumno--23 {
+    @include contendorEspecialista("../video/FERNANDO.webp");
+}
+
+.container-alumno--24 {
+    @include contendorEspecialista("../video/ZENAIDA.webp");
+    background-position: 0px -20px;
+}
+
+.container-alumno--25 {
+    @include contendorEspecialista("../video/ROCIO.webp");
+}
+
+.container-alumno--26 {
+    @include contendorEspecialista("../video/PABLOPROFESOR.webp");
+    background-position: 0px -20px;
+}
+
+.container-alumno--27 {
+    @include contendorEspecialista("../video/RAFA.webp");
+}
+
+.container-alumno--21 {
+    @include contendorEspecialista("../video/JAIME.webp");
+}
