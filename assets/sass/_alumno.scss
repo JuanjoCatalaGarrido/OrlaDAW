@@ -6,9 +6,7 @@
     align-items: center;
     gap: 2rem;
 
-    padding: 0px 15rem;
-
-    padding-top: 20rem;
+    padding: 1rem 5rem;
 }
 
 .superior,
@@ -23,10 +21,10 @@
 
 h2 {
     position: absolute;
-    bottom: -30px;
+    bottom: -2rem;
     left: 50%;
     transform: translate(-50%);
-    background-image: url("../img/fondo.png");
+    background-color: white;
     width: fit-content;
 }
 

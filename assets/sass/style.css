@@ -5,8 +5,7 @@
   justify-content: center;
   align-items: center;
   gap: 2rem;
-  padding: 0px 15rem;
-  padding-top: 20rem;
+  padding: 1rem 5rem;
 }
 
 .superior,
@@ -21,10 +20,10 @@
 
 h2 {
   position: absolute;
-  bottom: -30px;
+  bottom: -2rem;
   left: 50%;
   transform: translate(-50%);
-  background-image: url("../img/fondo.png");
+  background-color: white;
   width: -moz-fit-content;
   width: fit-content;
 }
@@ -312,11 +311,16 @@ h2 {
 @media (min-width: 3600px) {
   .container {
     background-image: url("../img/output.png");
+    background-size: cover;
+    background-repeat: no-repeat;
   }
 }
 body {
-  background-image: url("../img/fondo.png");
   font-size: 10px;
-  background-size: cover;
-  background-repeat: no-repeat;
+}
+
+.titulo {
+  font-size: 3rem;
+  text-align: center;
+  margin-top: 1rem;
 }/*# sourceMappingURL=style.css.map */
