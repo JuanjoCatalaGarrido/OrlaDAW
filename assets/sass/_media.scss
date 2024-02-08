@@ -1,7 +1,49 @@
-@media (min-width: 3600px) {
-    .container {
+@media (min-width: 5000px) {
+    body {
         background-image: url("../img/output.png");
         background-size: cover;
         background-repeat: no-repeat;
+    }
+}
+
+@media (max-width: 1130px) {
+    .titulo {
+        font-size: 2rem !important;
+    }
+
+    .logo {
+        width: 8rem !important;
+    }
+}
+
+@media (max-width: 980px) {
+    .superior {
+        gap: 6rem;
+    }
+}
+
+@media (max-width: 870px) {
+    .titulo {
+        font-size: 1.5rem !important;
+    }
+}
+
+@media (max-width: 780px) {
+    .titulo {
+        flex-basis: 100%;
+        font-size: 2rem !important;
+    }
+
+    .junta {
+        display: none;
+    }
+
+    .nombreIES {
+        display: none;
+    }
+
+
+    .logo {
+        display: none;
     }
 }
