@@ -79,9 +79,9 @@ h2 {
 
     background-color: white;
 
-    -webkit-box-shadow: 0px 0px 6px 0px rgba(0, 0, 0, 0.5);
-    -moz-box-shadow: 0px 0px 6px 0px rgba(0, 0, 0, 0.5);
-    box-shadow: 0px 0px 6px 0px rgba(0, 0, 0, 0.5);
+    -webkit-box-shadow: 0 0 6px 0 rgba(0, 0, 0, 0.5);
+    -moz-box-shadow: 0 0 6px 0 rgba(0, 0, 0, 0.5);
+    box-shadow: 0 0 6px 0 rgba(0, 0, 0, 0.5);
 
     background-image: url($url);
     background-size: cover;
@@ -214,6 +214,10 @@ h2 {
 
 .container-alumno--28 {
     @include contendorEspecialista("../video/ROCIO.webp");
+    background-position: 0px -15px;
+}
+.container-alumno--29 {
+    @include contendorEspecialista("../video/JUANJOPROFESOR.webp");
     background-position: 0px -15px;
 }
 

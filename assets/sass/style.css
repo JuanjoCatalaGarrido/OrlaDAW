@@ -6,12 +6,10 @@
   align-items: center;
   gap: 3rem;
   margin-bottom: 12rem;
-  padding: 1rem 5rem;
-}
+  padding: 1rem 5rem; }
 
 .superior {
-  margin-bottom: 5rem;
-}
+  margin-bottom: 5rem; }
 
 .superior,
 .inferior {
@@ -20,8 +18,7 @@
   flex-wrap: wrap;
   justify-content: center;
   align-items: center;
-  gap: 4rem;
-}
+  gap: 4rem; }
 
 h2 {
   position: absolute;
@@ -33,16 +30,13 @@ h2 {
   text-transform: uppercase;
   font-weight: bold;
   font-size: 1.1rem;
-  z-index: 5;
-}
+  z-index: 5; }
 
 .nombre {
-  bottom: -6.2rem;
-}
+  bottom: -6.2rem; }
 
 .fondo {
-  bottom: -6rem;
-}
+  bottom: -6rem; }
 
 .alumno-foto {
   position: absolute;
@@ -50,8 +44,7 @@ h2 {
   left: 50%;
   transform: translate(-50%);
   width: 10rem;
-  z-index: 1;
-}
+  z-index: 1; }
 
 .alumno-foto--1 {
   position: absolute;
@@ -59,409 +52,437 @@ h2 {
   left: 50%;
   transform: translate(-50%);
   width: 10rem;
-  z-index: 1;
-}
+  z-index: 1; }
 
 .container-alumno--1 {
   position: relative;
   width: 6.5rem;
   height: 6.5rem;
-  margin-bottom: 0.5rem;
+  margin-bottom: .5rem;
   border-radius: 50%;
   background-color: white;
-  box-shadow: 0px 0px 6px 0px rgba(0, 0, 0, 0.5);
+  -webkit-box-shadow: 0 0 6px 0 rgba(0, 0, 0, 0.5);
+  -moz-box-shadow: 0 0 6px 0 rgba(0, 0, 0, 0.5);
+  box-shadow: 0 0 6px 0 rgba(0, 0, 0, 0.5);
   background-image: url("../video/ANDRES.webp");
-  background-size: cover;
-}
+  background-size: cover; }
 
 .alumno {
-  transition: all 1s ease-in-out;
-}
+  transition: all 1s ease-in-out; }
 
 .alumno:hover {
   transform: scale(2);
-  z-index: 10;
-}
+  z-index: 10; }
 
 .container-alumno--2 {
   position: relative;
   width: 6.5rem;
   height: 6.5rem;
-  margin-bottom: 0.5rem;
+  margin-bottom: .5rem;
   border-radius: 50%;
   background-color: white;
-  box-shadow: 0px 0px 6px 0px rgba(0, 0, 0, 0.5);
+  -webkit-box-shadow: 0 0 6px 0 rgba(0, 0, 0, 0.5);
+  -moz-box-shadow: 0 0 6px 0 rgba(0, 0, 0, 0.5);
+  box-shadow: 0 0 6px 0 rgba(0, 0, 0, 0.5);
   background-image: url("../video/ANTONIO.webp");
-  background-size: cover;
-}
+  background-size: cover; }
 
 .container-alumno--3 {
   position: relative;
   width: 6.5rem;
   height: 6.5rem;
-  margin-bottom: 0.5rem;
+  margin-bottom: .5rem;
   border-radius: 50%;
   background-color: white;
-  box-shadow: 0px 0px 6px 0px rgba(0, 0, 0, 0.5);
+  -webkit-box-shadow: 0 0 6px 0 rgba(0, 0, 0, 0.5);
+  -moz-box-shadow: 0 0 6px 0 rgba(0, 0, 0, 0.5);
+  box-shadow: 0 0 6px 0 rgba(0, 0, 0, 0.5);
   background-image: url("../video/BLANCAS.webp");
   background-size: cover;
-  background-position: 0px -20px;
-}
+  background-position: 0px -20px; }
 
 .container-alumno--4 {
   position: relative;
   width: 6.5rem;
   height: 6.5rem;
-  margin-bottom: 0.5rem;
+  margin-bottom: .5rem;
   border-radius: 50%;
   background-color: white;
-  box-shadow: 0px 0px 6px 0px rgba(0, 0, 0, 0.5);
+  -webkit-box-shadow: 0 0 6px 0 rgba(0, 0, 0, 0.5);
+  -moz-box-shadow: 0 0 6px 0 rgba(0, 0, 0, 0.5);
+  box-shadow: 0 0 6px 0 rgba(0, 0, 0, 0.5);
   background-image: url("../video/CADENILLAS.webp");
-  background-size: cover;
-}
+  background-size: cover; }
 
 .container-alumno--5 {
   position: relative;
   width: 6.5rem;
   height: 6.5rem;
-  margin-bottom: 0.5rem;
+  margin-bottom: .5rem;
   border-radius: 50%;
   background-color: white;
-  box-shadow: 0px 0px 6px 0px rgba(0, 0, 0, 0.5);
+  -webkit-box-shadow: 0 0 6px 0 rgba(0, 0, 0, 0.5);
+  -moz-box-shadow: 0 0 6px 0 rgba(0, 0, 0, 0.5);
+  box-shadow: 0 0 6px 0 rgba(0, 0, 0, 0.5);
   background-image: url("../video/CARABALLO.webp");
-  background-size: cover;
-}
+  background-size: cover; }
 
 .container-alumno--6 {
   position: relative;
   width: 6.5rem;
   height: 6.5rem;
-  margin-bottom: 0.5rem;
+  margin-bottom: .5rem;
   border-radius: 50%;
   background-color: white;
-  box-shadow: 0px 0px 6px 0px rgba(0, 0, 0, 0.5);
+  -webkit-box-shadow: 0 0 6px 0 rgba(0, 0, 0, 0.5);
+  -moz-box-shadow: 0 0 6px 0 rgba(0, 0, 0, 0.5);
+  box-shadow: 0 0 6px 0 rgba(0, 0, 0, 0.5);
   background-image: url("../video/CARABANTE.webp");
-  background-size: cover;
-}
+  background-size: cover; }
 
 .container-alumno--7 {
   position: relative;
   width: 6.5rem;
   height: 6.5rem;
-  margin-bottom: 0.5rem;
+  margin-bottom: .5rem;
   border-radius: 50%;
   background-color: white;
-  box-shadow: 0px 0px 6px 0px rgba(0, 0, 0, 0.5);
+  -webkit-box-shadow: 0 0 6px 0 rgba(0, 0, 0, 0.5);
+  -moz-box-shadow: 0 0 6px 0 rgba(0, 0, 0, 0.5);
+  box-shadow: 0 0 6px 0 rgba(0, 0, 0, 0.5);
   background-image: url("../video/JULIA.webp");
   background-size: cover;
-  background-position: 0px -20px;
-}
+  background-position: 0px -20px; }
 
 .container-alumno--8 {
   position: relative;
   width: 6.5rem;
   height: 6.5rem;
-  margin-bottom: 0.5rem;
+  margin-bottom: .5rem;
   border-radius: 50%;
   background-color: white;
-  box-shadow: 0px 0px 6px 0px rgba(0, 0, 0, 0.5);
+  -webkit-box-shadow: 0 0 6px 0 rgba(0, 0, 0, 0.5);
+  -moz-box-shadow: 0 0 6px 0 rgba(0, 0, 0, 0.5);
+  box-shadow: 0 0 6px 0 rgba(0, 0, 0, 0.5);
   background-image: url("../video/JUANJO.webp");
-  background-size: cover;
-}
+  background-size: cover; }
 
 .container-alumno--9 {
   position: relative;
   width: 6.5rem;
   height: 6.5rem;
-  margin-bottom: 0.5rem;
+  margin-bottom: .5rem;
   border-radius: 50%;
   background-color: white;
-  box-shadow: 0px 0px 6px 0px rgba(0, 0, 0, 0.5);
+  -webkit-box-shadow: 0 0 6px 0 rgba(0, 0, 0, 0.5);
+  -moz-box-shadow: 0 0 6px 0 rgba(0, 0, 0, 0.5);
+  box-shadow: 0 0 6px 0 rgba(0, 0, 0, 0.5);
   background-image: url("../video/NATAN.webp");
   background-size: cover;
-  background-position: 0px -20px;
-}
+  background-position: 0px -20px; }
 
 .container-alumno--10 {
   position: relative;
   width: 6.5rem;
   height: 6.5rem;
-  margin-bottom: 0.5rem;
+  margin-bottom: .5rem;
   border-radius: 50%;
   background-color: white;
-  box-shadow: 0px 0px 6px 0px rgba(0, 0, 0, 0.5);
+  -webkit-box-shadow: 0 0 6px 0 rgba(0, 0, 0, 0.5);
+  -moz-box-shadow: 0 0 6px 0 rgba(0, 0, 0, 0.5);
+  box-shadow: 0 0 6px 0 rgba(0, 0, 0, 0.5);
   background-image: url("../video/CRESPO.webp");
-  background-size: cover;
-}
+  background-size: cover; }
 
 .container-alumno--11 {
   position: relative;
   width: 6.5rem;
   height: 6.5rem;
-  margin-bottom: 0.5rem;
+  margin-bottom: .5rem;
   border-radius: 50%;
   background-color: white;
-  box-shadow: 0px 0px 6px 0px rgba(0, 0, 0, 0.5);
+  -webkit-box-shadow: 0 0 6px 0 rgba(0, 0, 0, 0.5);
+  -moz-box-shadow: 0 0 6px 0 rgba(0, 0, 0, 0.5);
+  box-shadow: 0 0 6px 0 rgba(0, 0, 0, 0.5);
   background-image: url("../video/RAMON.webp");
-  background-size: cover;
-}
+  background-size: cover; }
 
 .container-alumno--12 {
   position: relative;
   width: 6.5rem;
   height: 6.5rem;
-  margin-bottom: 0.5rem;
+  margin-bottom: .5rem;
   border-radius: 50%;
   background-color: white;
-  box-shadow: 0px 0px 6px 0px rgba(0, 0, 0, 0.5);
+  -webkit-box-shadow: 0 0 6px 0 rgba(0, 0, 0, 0.5);
+  -moz-box-shadow: 0 0 6px 0 rgba(0, 0, 0, 0.5);
+  box-shadow: 0 0 6px 0 rgba(0, 0, 0, 0.5);
   background-image: url("../video/JOSELUIS.webp");
-  background-size: cover;
-}
+  background-size: cover; }
 
 .container-alumno--13 {
   position: relative;
   width: 6.5rem;
   height: 6.5rem;
-  margin-bottom: 0.5rem;
+  margin-bottom: .5rem;
   border-radius: 50%;
   background-color: white;
-  box-shadow: 0px 0px 6px 0px rgba(0, 0, 0, 0.5);
+  -webkit-box-shadow: 0 0 6px 0 rgba(0, 0, 0, 0.5);
+  -moz-box-shadow: 0 0 6px 0 rgba(0, 0, 0, 0.5);
+  box-shadow: 0 0 6px 0 rgba(0, 0, 0, 0.5);
   background-image: url("../video/ANA.webp");
   background-size: cover;
-  background-position: 0px -20px;
-}
+  background-position: 0px -20px; }
 
 .container-alumno--14 {
   position: relative;
   width: 6.5rem;
   height: 6.5rem;
-  margin-bottom: 0.5rem;
+  margin-bottom: .5rem;
   border-radius: 50%;
   background-color: white;
-  box-shadow: 0px 0px 6px 0px rgba(0, 0, 0, 0.5);
+  -webkit-box-shadow: 0 0 6px 0 rgba(0, 0, 0, 0.5);
+  -moz-box-shadow: 0 0 6px 0 rgba(0, 0, 0, 0.5);
+  box-shadow: 0 0 6px 0 rgba(0, 0, 0, 0.5);
   background-image: url("../video/MOISES.webp");
-  background-size: cover;
-}
+  background-size: cover; }
 
 .container-alumno--15 {
   position: relative;
   width: 6.5rem;
   height: 6.5rem;
-  margin-bottom: 0.5rem;
+  margin-bottom: .5rem;
   border-radius: 50%;
   background-color: white;
-  box-shadow: 0px 0px 6px 0px rgba(0, 0, 0, 0.5);
+  -webkit-box-shadow: 0 0 6px 0 rgba(0, 0, 0, 0.5);
+  -moz-box-shadow: 0 0 6px 0 rgba(0, 0, 0, 0.5);
+  box-shadow: 0 0 6px 0 rgba(0, 0, 0, 0.5);
   background-image: url("../video/ALEJANDRO.webp");
   background-size: cover;
-  background-position: 0px -20px;
-}
+  background-position: 0px -20px; }
 
 .container-alumno--16 {
   position: relative;
   width: 6.5rem;
   height: 6.5rem;
-  margin-bottom: 0.5rem;
+  margin-bottom: .5rem;
   border-radius: 50%;
   background-color: white;
-  box-shadow: 0px 0px 6px 0px rgba(0, 0, 0, 0.5);
+  -webkit-box-shadow: 0 0 6px 0 rgba(0, 0, 0, 0.5);
+  -moz-box-shadow: 0 0 6px 0 rgba(0, 0, 0, 0.5);
+  box-shadow: 0 0 6px 0 rgba(0, 0, 0, 0.5);
   background-image: url("../video/REY.webp");
   background-size: cover;
-  background-position: 0px -20px;
-}
+  background-position: 0px -20px; }
 
 .container-alumno--17 {
   position: relative;
   width: 6.5rem;
   height: 6.5rem;
-  margin-bottom: 0.5rem;
+  margin-bottom: .5rem;
   border-radius: 50%;
   background-color: white;
-  box-shadow: 0px 0px 6px 0px rgba(0, 0, 0, 0.5);
+  -webkit-box-shadow: 0 0 6px 0 rgba(0, 0, 0, 0.5);
+  -moz-box-shadow: 0 0 6px 0 rgba(0, 0, 0, 0.5);
+  box-shadow: 0 0 6px 0 rgba(0, 0, 0, 0.5);
   background-image: url("../video/SANCHEZ.webp");
-  background-size: cover;
-}
+  background-size: cover; }
 
 .container-alumno--18 {
   position: relative;
   width: 6.5rem;
   height: 6.5rem;
-  margin-bottom: 0.5rem;
+  margin-bottom: .5rem;
   border-radius: 50%;
   background-color: white;
-  box-shadow: 0px 0px 6px 0px rgba(0, 0, 0, 0.5);
+  -webkit-box-shadow: 0 0 6px 0 rgba(0, 0, 0, 0.5);
+  -moz-box-shadow: 0 0 6px 0 rgba(0, 0, 0, 0.5);
+  box-shadow: 0 0 6px 0 rgba(0, 0, 0, 0.5);
   background-image: url("../video/PABLO.webp");
-  background-size: cover;
-}
+  background-size: cover; }
 
 .container-alumno--19 {
   position: relative;
   width: 6.5rem;
   height: 6.5rem;
-  margin-bottom: 0.5rem;
+  margin-bottom: .5rem;
   border-radius: 50%;
   background-color: white;
-  box-shadow: 0px 0px 6px 0px rgba(0, 0, 0, 0.5);
+  -webkit-box-shadow: 0 0 6px 0 rgba(0, 0, 0, 0.5);
+  -moz-box-shadow: 0 0 6px 0 rgba(0, 0, 0, 0.5);
+  box-shadow: 0 0 6px 0 rgba(0, 0, 0, 0.5);
   background-image: url("../video/JAVIER.webp");
-  background-size: cover;
-}
+  background-size: cover; }
 
 .container-alumno--20 {
   position: relative;
   width: 6.5rem;
   height: 6.5rem;
-  margin-bottom: 0.5rem;
+  margin-bottom: .5rem;
   border-radius: 50%;
   background-color: white;
-  box-shadow: 0px 0px 6px 0px rgba(0, 0, 0, 0.5);
+  -webkit-box-shadow: 0 0 6px 0 rgba(0, 0, 0, 0.5);
+  -moz-box-shadow: 0 0 6px 0 rgba(0, 0, 0, 0.5);
+  box-shadow: 0 0 6px 0 rgba(0, 0, 0, 0.5);
   background-image: url("../video/EDUARDO.webp");
   background-size: cover;
-  background-position: 0px -20px;
-}
+  background-position: 0px -20px; }
 
 .container-alumno--22 {
   position: relative;
   width: 6.5rem;
   height: 6.5rem;
-  margin-bottom: 0.5rem;
+  margin-bottom: .5rem;
   border-radius: 50%;
   background-color: white;
-  box-shadow: 0px 0px 6px 0px rgba(0, 0, 0, 0.5);
+  -webkit-box-shadow: 0 0 6px 0 rgba(0, 0, 0, 0.5);
+  -moz-box-shadow: 0 0 6px 0 rgba(0, 0, 0, 0.5);
+  box-shadow: 0 0 6px 0 rgba(0, 0, 0, 0.5);
   background-image: url("../video/CRISTINACARMEN.webp");
   background-size: cover;
-  background-position: 0px -25px;
-}
+  background-position: 0px -25px; }
 
 .container-alumno--23 {
   position: relative;
   width: 6.5rem;
   height: 6.5rem;
-  margin-bottom: 0.5rem;
+  margin-bottom: .5rem;
   border-radius: 50%;
   background-color: white;
-  box-shadow: 0px 0px 6px 0px rgba(0, 0, 0, 0.5);
+  -webkit-box-shadow: 0 0 6px 0 rgba(0, 0, 0, 0.5);
+  -moz-box-shadow: 0 0 6px 0 rgba(0, 0, 0, 0.5);
+  box-shadow: 0 0 6px 0 rgba(0, 0, 0, 0.5);
   background-image: url("../video/FERNANDO.webp");
-  background-size: cover;
-}
+  background-size: cover; }
 
 .container-alumno--24 {
   position: relative;
   width: 6.5rem;
   height: 6.5rem;
-  margin-bottom: 0.5rem;
+  margin-bottom: .5rem;
   border-radius: 50%;
   background-color: white;
-  box-shadow: 0px 0px 6px 0px rgba(0, 0, 0, 0.5);
+  -webkit-box-shadow: 0 0 6px 0 rgba(0, 0, 0, 0.5);
+  -moz-box-shadow: 0 0 6px 0 rgba(0, 0, 0, 0.5);
+  box-shadow: 0 0 6px 0 rgba(0, 0, 0, 0.5);
   background-image: url("../video/ZENAIDA.webp");
   background-size: cover;
-  background-position: 0px -20px;
-}
+  background-position: 0px -20px; }
 
 .container-alumno--25 {
   position: relative;
   width: 6.5rem;
   height: 6.5rem;
-  margin-bottom: 0.5rem;
+  margin-bottom: .5rem;
   border-radius: 50%;
   background-color: white;
-  box-shadow: 0px 0px 6px 0px rgba(0, 0, 0, 0.5);
+  -webkit-box-shadow: 0 0 6px 0 rgba(0, 0, 0, 0.5);
+  -moz-box-shadow: 0 0 6px 0 rgba(0, 0, 0, 0.5);
+  box-shadow: 0 0 6px 0 rgba(0, 0, 0, 0.5);
   background-image: url("../video/antonioprofe.webp");
-  background-size: cover;
-}
+  background-size: cover; }
 
 .container-alumno--26 {
   position: relative;
   width: 6.5rem;
   height: 6.5rem;
-  margin-bottom: 0.5rem;
+  margin-bottom: .5rem;
   border-radius: 50%;
   background-color: white;
-  box-shadow: 0px 0px 6px 0px rgba(0, 0, 0, 0.5);
+  -webkit-box-shadow: 0 0 6px 0 rgba(0, 0, 0, 0.5);
+  -moz-box-shadow: 0 0 6px 0 rgba(0, 0, 0, 0.5);
+  box-shadow: 0 0 6px 0 rgba(0, 0, 0, 0.5);
   background-image: url("../video/PABLOPROFESOR.webp");
   background-size: cover;
-  background-position: 0px -20px;
-}
+  background-position: 0px -20px; }
 
 .container-alumno--27 {
   position: relative;
   width: 6.5rem;
   height: 6.5rem;
-  margin-bottom: 0.5rem;
+  margin-bottom: .5rem;
   border-radius: 50%;
   background-color: white;
-  box-shadow: 0px 0px 6px 0px rgba(0, 0, 0, 0.5);
+  -webkit-box-shadow: 0 0 6px 0 rgba(0, 0, 0, 0.5);
+  -moz-box-shadow: 0 0 6px 0 rgba(0, 0, 0, 0.5);
+  box-shadow: 0 0 6px 0 rgba(0, 0, 0, 0.5);
   background-image: url("../video/RAFA.webp");
-  background-size: cover;
-}
+  background-size: cover; }
 
 .container-alumno--28 {
   position: relative;
   width: 6.5rem;
   height: 6.5rem;
-  margin-bottom: 0.5rem;
+  margin-bottom: .5rem;
   border-radius: 50%;
   background-color: white;
-  box-shadow: 0px 0px 6px 0px rgba(0, 0, 0, 0.5);
+  -webkit-box-shadow: 0 0 6px 0 rgba(0, 0, 0, 0.5);
+  -moz-box-shadow: 0 0 6px 0 rgba(0, 0, 0, 0.5);
+  box-shadow: 0 0 6px 0 rgba(0, 0, 0, 0.5);
   background-image: url("../video/ROCIO.webp");
   background-size: cover;
-  background-position: 0px -15px;
-}
+  background-position: 0px -15px; }
+
+.container-alumno--29 {
+  position: relative;
+  width: 6.5rem;
+  height: 6.5rem;
+  margin-bottom: .5rem;
+  border-radius: 50%;
+  background-color: white;
+  -webkit-box-shadow: 0 0 6px 0 rgba(0, 0, 0, 0.5);
+  -moz-box-shadow: 0 0 6px 0 rgba(0, 0, 0, 0.5);
+  box-shadow: 0 0 6px 0 rgba(0, 0, 0, 0.5);
+  background-image: url("../video/JUANJOPROFESOR.webp");
+  background-size: cover;
+  background-position: 0px -15px; }
 
 .container-alumno--21 {
   position: relative;
   width: 6.5rem;
   height: 6.5rem;
-  margin-bottom: 0.5rem;
+  margin-bottom: .5rem;
   border-radius: 50%;
   background-color: white;
-  box-shadow: 0px 0px 6px 0px rgba(0, 0, 0, 0.5);
+  -webkit-box-shadow: 0 0 6px 0 rgba(0, 0, 0, 0.5);
+  -moz-box-shadow: 0 0 6px 0 rgba(0, 0, 0, 0.5);
+  box-shadow: 0 0 6px 0 rgba(0, 0, 0, 0.5);
   background-image: url("../video/JAIME.webp");
-  background-size: cover;
-}
+  background-size: cover; }
 
 @media (min-width: 5000px) {
   body {
     background-image: url("../img/output.png");
     background-size: cover;
-    background-repeat: no-repeat;
-  }
-}
+    background-repeat: no-repeat; } }
 @media (max-width: 1130px) {
   .titulo {
-    font-size: 2rem !important;
-  }
+    font-size: 2rem !important; }
+
   .logo {
-    width: 8rem !important;
-  }
-}
+    width: 8rem !important; } }
 @media (max-width: 980px) {
   .superior {
-    gap: 6rem;
-  }
-}
+    gap: 6rem; } }
 @media (max-width: 870px) {
   .titulo {
-    font-size: 1.5rem !important;
-  }
-}
+    font-size: 1.5rem !important; } }
 @media (max-width: 780px) {
   .titulo {
     flex-basis: 100%;
-    font-size: 2rem !important;
-  }
+    font-size: 2rem !important; }
+
   .junta {
-    display: none;
-  }
+    display: none; }
+
   .nombreIES {
-    display: none;
-  }
+    display: none; }
+
   .logo {
-    display: none;
-  }
-}
+    display: none; } }
 body {
   font-size: 10px;
-  background-color: #f5f5f5;
-}
+  background-color: #f5f5f5; }
 
 nav {
   width: 100%;
@@ -469,36 +490,32 @@ nav {
   flex-direction: row;
   justify-content: space-around;
   flex-wrap: nowrap;
-  align-items: center;
-}
+  align-items: center; }
 
 .container-junta {
   display: flex;
   flex-direction: column;
   justify-content: center;
-  align-items: center;
-}
+  align-items: center; }
 
 .junta {
   flex-basis: 33%;
-  width: 10rem;
-}
+  width: 10rem; }
 
 .nombreIES {
   font-size: 1.3rem;
   font-weight: bold;
-  font-family: "Dancing Script", cursive;
-  width: 100%;
-}
+  font-family: 'Dancing Script', cursive;
+  width: 100%; }
 
 .logo {
-  width: 13rem;
-}
+  width: 13rem; }
 
 .titulo {
   font-size: 3rem;
   text-align: center;
   width: 100%;
   margin-top: 0;
-  font-family: "Dancing Script", cursive;
-}/*# sourceMappingURL=style.css.map */
+  font-family: 'Dancing Script', cursive; }
+
+/*# sourceMappingURL=style.css.map */
