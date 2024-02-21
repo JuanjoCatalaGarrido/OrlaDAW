@@ -61,9 +61,9 @@ h2 {
   margin-bottom: .5rem;
   border-radius: 50%;
   background-color: white;
-  -webkit-box-shadow: 0px 0px 6px 0px rgba(0, 0, 0, 0.5);
-  -moz-box-shadow: 0px 0px 6px 0px rgba(0, 0, 0, 0.5);
-  box-shadow: 0px 0px 6px 0px rgba(0, 0, 0, 0.5);
+  -webkit-box-shadow: 0 0 6px 0 rgba(0, 0, 0, 0.5);
+  -moz-box-shadow: 0 0 6px 0 rgba(0, 0, 0, 0.5);
+  box-shadow: 0 0 6px 0 rgba(0, 0, 0, 0.5);
   background-image: url("../video/ANDRES.webp");
   background-size: cover; }
 
@@ -81,9 +81,9 @@ h2 {
   margin-bottom: .5rem;
   border-radius: 50%;
   background-color: white;
-  -webkit-box-shadow: 0px 0px 6px 0px rgba(0, 0, 0, 0.5);
-  -moz-box-shadow: 0px 0px 6px 0px rgba(0, 0, 0, 0.5);
-  box-shadow: 0px 0px 6px 0px rgba(0, 0, 0, 0.5);
+  -webkit-box-shadow: 0 0 6px 0 rgba(0, 0, 0, 0.5);
+  -moz-box-shadow: 0 0 6px 0 rgba(0, 0, 0, 0.5);
+  box-shadow: 0 0 6px 0 rgba(0, 0, 0, 0.5);
   background-image: url("../video/ANTONIO.webp");
   background-size: cover; }
 
@@ -94,9 +94,9 @@ h2 {
   margin-bottom: .5rem;
   border-radius: 50%;
   background-color: white;
-  -webkit-box-shadow: 0px 0px 6px 0px rgba(0, 0, 0, 0.5);
-  -moz-box-shadow: 0px 0px 6px 0px rgba(0, 0, 0, 0.5);
-  box-shadow: 0px 0px 6px 0px rgba(0, 0, 0, 0.5);
+  -webkit-box-shadow: 0 0 6px 0 rgba(0, 0, 0, 0.5);
+  -moz-box-shadow: 0 0 6px 0 rgba(0, 0, 0, 0.5);
+  box-shadow: 0 0 6px 0 rgba(0, 0, 0, 0.5);
   background-image: url("../video/BLANCAS.webp");
   background-size: cover;
   background-position: 0px -20px; }
@@ -108,9 +108,9 @@ h2 {
   margin-bottom: .5rem;
   border-radius: 50%;
   background-color: white;
-  -webkit-box-shadow: 0px 0px 6px 0px rgba(0, 0, 0, 0.5);
-  -moz-box-shadow: 0px 0px 6px 0px rgba(0, 0, 0, 0.5);
-  box-shadow: 0px 0px 6px 0px rgba(0, 0, 0, 0.5);
+  -webkit-box-shadow: 0 0 6px 0 rgba(0, 0, 0, 0.5);
+  -moz-box-shadow: 0 0 6px 0 rgba(0, 0, 0, 0.5);
+  box-shadow: 0 0 6px 0 rgba(0, 0, 0, 0.5);
   background-image: url("../video/CADENILLAS.webp");
   background-size: cover; }
 
@@ -121,9 +121,9 @@ h2 {
   margin-bottom: .5rem;
   border-radius: 50%;
   background-color: white;
-  -webkit-box-shadow: 0px 0px 6px 0px rgba(0, 0, 0, 0.5);
-  -moz-box-shadow: 0px 0px 6px 0px rgba(0, 0, 0, 0.5);
-  box-shadow: 0px 0px 6px 0px rgba(0, 0, 0, 0.5);
+  -webkit-box-shadow: 0 0 6px 0 rgba(0, 0, 0, 0.5);
+  -moz-box-shadow: 0 0 6px 0 rgba(0, 0, 0, 0.5);
+  box-shadow: 0 0 6px 0 rgba(0, 0, 0, 0.5);
   background-image: url("../video/CARABALLO.webp");
   background-size: cover; }
 
@@ -134,9 +134,9 @@ h2 {
   margin-bottom: .5rem;
   border-radius: 50%;
   background-color: white;
-  -webkit-box-shadow: 0px 0px 6px 0px rgba(0, 0, 0, 0.5);
-  -moz-box-shadow: 0px 0px 6px 0px rgba(0, 0, 0, 0.5);
-  box-shadow: 0px 0px 6px 0px rgba(0, 0, 0, 0.5);
+  -webkit-box-shadow: 0 0 6px 0 rgba(0, 0, 0, 0.5);
+  -moz-box-shadow: 0 0 6px 0 rgba(0, 0, 0, 0.5);
+  box-shadow: 0 0 6px 0 rgba(0, 0, 0, 0.5);
   background-image: url("../video/CARABANTE.webp");
   background-size: cover; }
 
@@ -147,9 +147,9 @@ h2 {
   margin-bottom: .5rem;
   border-radius: 50%;
   background-color: white;
-  -webkit-box-shadow: 0px 0px 6px 0px rgba(0, 0, 0, 0.5);
-  -moz-box-shadow: 0px 0px 6px 0px rgba(0, 0, 0, 0.5);
-  box-shadow: 0px 0px 6px 0px rgba(0, 0, 0, 0.5);
+  -webkit-box-shadow: 0 0 6px 0 rgba(0, 0, 0, 0.5);
+  -moz-box-shadow: 0 0 6px 0 rgba(0, 0, 0, 0.5);
+  box-shadow: 0 0 6px 0 rgba(0, 0, 0, 0.5);
   background-image: url("../video/JULIA.webp");
   background-size: cover;
   background-position: 0px -20px; }
@@ -161,9 +161,9 @@ h2 {
   margin-bottom: .5rem;
   border-radius: 50%;
   background-color: white;
-  -webkit-box-shadow: 0px 0px 6px 0px rgba(0, 0, 0, 0.5);
-  -moz-box-shadow: 0px 0px 6px 0px rgba(0, 0, 0, 0.5);
-  box-shadow: 0px 0px 6px 0px rgba(0, 0, 0, 0.5);
+  -webkit-box-shadow: 0 0 6px 0 rgba(0, 0, 0, 0.5);
+  -moz-box-shadow: 0 0 6px 0 rgba(0, 0, 0, 0.5);
+  box-shadow: 0 0 6px 0 rgba(0, 0, 0, 0.5);
   background-image: url("../video/JUANJO.webp");
   background-size: cover; }
 
@@ -174,9 +174,9 @@ h2 {
   margin-bottom: .5rem;
   border-radius: 50%;
   background-color: white;
-  -webkit-box-shadow: 0px 0px 6px 0px rgba(0, 0, 0, 0.5);
-  -moz-box-shadow: 0px 0px 6px 0px rgba(0, 0, 0, 0.5);
-  box-shadow: 0px 0px 6px 0px rgba(0, 0, 0, 0.5);
+  -webkit-box-shadow: 0 0 6px 0 rgba(0, 0, 0, 0.5);
+  -moz-box-shadow: 0 0 6px 0 rgba(0, 0, 0, 0.5);
+  box-shadow: 0 0 6px 0 rgba(0, 0, 0, 0.5);
   background-image: url("../video/NATAN.webp");
   background-size: cover;
   background-position: 0px -20px; }
@@ -188,9 +188,9 @@ h2 {
   margin-bottom: .5rem;
   border-radius: 50%;
   background-color: white;
-  -webkit-box-shadow: 0px 0px 6px 0px rgba(0, 0, 0, 0.5);
-  -moz-box-shadow: 0px 0px 6px 0px rgba(0, 0, 0, 0.5);
-  box-shadow: 0px 0px 6px 0px rgba(0, 0, 0, 0.5);
+  -webkit-box-shadow: 0 0 6px 0 rgba(0, 0, 0, 0.5);
+  -moz-box-shadow: 0 0 6px 0 rgba(0, 0, 0, 0.5);
+  box-shadow: 0 0 6px 0 rgba(0, 0, 0, 0.5);
   background-image: url("../video/CRESPO.webp");
   background-size: cover; }
 
@@ -201,9 +201,9 @@ h2 {
   margin-bottom: .5rem;
   border-radius: 50%;
   background-color: white;
-  -webkit-box-shadow: 0px 0px 6px 0px rgba(0, 0, 0, 0.5);
-  -moz-box-shadow: 0px 0px 6px 0px rgba(0, 0, 0, 0.5);
-  box-shadow: 0px 0px 6px 0px rgba(0, 0, 0, 0.5);
+  -webkit-box-shadow: 0 0 6px 0 rgba(0, 0, 0, 0.5);
+  -moz-box-shadow: 0 0 6px 0 rgba(0, 0, 0, 0.5);
+  box-shadow: 0 0 6px 0 rgba(0, 0, 0, 0.5);
   background-image: url("../video/RAMON.webp");
   background-size: cover; }
 
@@ -214,9 +214,9 @@ h2 {
   margin-bottom: .5rem;
   border-radius: 50%;
   background-color: white;
-  -webkit-box-shadow: 0px 0px 6px 0px rgba(0, 0, 0, 0.5);
-  -moz-box-shadow: 0px 0px 6px 0px rgba(0, 0, 0, 0.5);
-  box-shadow: 0px 0px 6px 0px rgba(0, 0, 0, 0.5);
+  -webkit-box-shadow: 0 0 6px 0 rgba(0, 0, 0, 0.5);
+  -moz-box-shadow: 0 0 6px 0 rgba(0, 0, 0, 0.5);
+  box-shadow: 0 0 6px 0 rgba(0, 0, 0, 0.5);
   background-image: url("../video/JOSELUIS.webp");
   background-size: cover; }
 
@@ -227,9 +227,9 @@ h2 {
   margin-bottom: .5rem;
   border-radius: 50%;
   background-color: white;
-  -webkit-box-shadow: 0px 0px 6px 0px rgba(0, 0, 0, 0.5);
-  -moz-box-shadow: 0px 0px 6px 0px rgba(0, 0, 0, 0.5);
-  box-shadow: 0px 0px 6px 0px rgba(0, 0, 0, 0.5);
+  -webkit-box-shadow: 0 0 6px 0 rgba(0, 0, 0, 0.5);
+  -moz-box-shadow: 0 0 6px 0 rgba(0, 0, 0, 0.5);
+  box-shadow: 0 0 6px 0 rgba(0, 0, 0, 0.5);
   background-image: url("../video/ANA.webp");
   background-size: cover;
   background-position: 0px -20px; }
@@ -241,9 +241,9 @@ h2 {
   margin-bottom: .5rem;
   border-radius: 50%;
   background-color: white;
-  -webkit-box-shadow: 0px 0px 6px 0px rgba(0, 0, 0, 0.5);
-  -moz-box-shadow: 0px 0px 6px 0px rgba(0, 0, 0, 0.5);
-  box-shadow: 0px 0px 6px 0px rgba(0, 0, 0, 0.5);
+  -webkit-box-shadow: 0 0 6px 0 rgba(0, 0, 0, 0.5);
+  -moz-box-shadow: 0 0 6px 0 rgba(0, 0, 0, 0.5);
+  box-shadow: 0 0 6px 0 rgba(0, 0, 0, 0.5);
   background-image: url("../video/MOISES.webp");
   background-size: cover; }
 
@@ -254,9 +254,9 @@ h2 {
   margin-bottom: .5rem;
   border-radius: 50%;
   background-color: white;
-  -webkit-box-shadow: 0px 0px 6px 0px rgba(0, 0, 0, 0.5);
-  -moz-box-shadow: 0px 0px 6px 0px rgba(0, 0, 0, 0.5);
-  box-shadow: 0px 0px 6px 0px rgba(0, 0, 0, 0.5);
+  -webkit-box-shadow: 0 0 6px 0 rgba(0, 0, 0, 0.5);
+  -moz-box-shadow: 0 0 6px 0 rgba(0, 0, 0, 0.5);
+  box-shadow: 0 0 6px 0 rgba(0, 0, 0, 0.5);
   background-image: url("../video/ALEJANDRO.webp");
   background-size: cover;
   background-position: 0px -20px; }
@@ -268,9 +268,9 @@ h2 {
   margin-bottom: .5rem;
   border-radius: 50%;
   background-color: white;
-  -webkit-box-shadow: 0px 0px 6px 0px rgba(0, 0, 0, 0.5);
-  -moz-box-shadow: 0px 0px 6px 0px rgba(0, 0, 0, 0.5);
-  box-shadow: 0px 0px 6px 0px rgba(0, 0, 0, 0.5);
+  -webkit-box-shadow: 0 0 6px 0 rgba(0, 0, 0, 0.5);
+  -moz-box-shadow: 0 0 6px 0 rgba(0, 0, 0, 0.5);
+  box-shadow: 0 0 6px 0 rgba(0, 0, 0, 0.5);
   background-image: url("../video/REY.webp");
   background-size: cover;
   background-position: 0px -20px; }
@@ -282,9 +282,9 @@ h2 {
   margin-bottom: .5rem;
   border-radius: 50%;
   background-color: white;
-  -webkit-box-shadow: 0px 0px 6px 0px rgba(0, 0, 0, 0.5);
-  -moz-box-shadow: 0px 0px 6px 0px rgba(0, 0, 0, 0.5);
-  box-shadow: 0px 0px 6px 0px rgba(0, 0, 0, 0.5);
+  -webkit-box-shadow: 0 0 6px 0 rgba(0, 0, 0, 0.5);
+  -moz-box-shadow: 0 0 6px 0 rgba(0, 0, 0, 0.5);
+  box-shadow: 0 0 6px 0 rgba(0, 0, 0, 0.5);
   background-image: url("../video/SANCHEZ.webp");
   background-size: cover; }
 
@@ -295,9 +295,9 @@ h2 {
   margin-bottom: .5rem;
   border-radius: 50%;
   background-color: white;
-  -webkit-box-shadow: 0px 0px 6px 0px rgba(0, 0, 0, 0.5);
-  -moz-box-shadow: 0px 0px 6px 0px rgba(0, 0, 0, 0.5);
-  box-shadow: 0px 0px 6px 0px rgba(0, 0, 0, 0.5);
+  -webkit-box-shadow: 0 0 6px 0 rgba(0, 0, 0, 0.5);
+  -moz-box-shadow: 0 0 6px 0 rgba(0, 0, 0, 0.5);
+  box-shadow: 0 0 6px 0 rgba(0, 0, 0, 0.5);
   background-image: url("../video/PABLO.webp");
   background-size: cover; }
 
@@ -308,9 +308,9 @@ h2 {
   margin-bottom: .5rem;
   border-radius: 50%;
   background-color: white;
-  -webkit-box-shadow: 0px 0px 6px 0px rgba(0, 0, 0, 0.5);
-  -moz-box-shadow: 0px 0px 6px 0px rgba(0, 0, 0, 0.5);
-  box-shadow: 0px 0px 6px 0px rgba(0, 0, 0, 0.5);
+  -webkit-box-shadow: 0 0 6px 0 rgba(0, 0, 0, 0.5);
+  -moz-box-shadow: 0 0 6px 0 rgba(0, 0, 0, 0.5);
+  box-shadow: 0 0 6px 0 rgba(0, 0, 0, 0.5);
   background-image: url("../video/JAVIER.webp");
   background-size: cover; }
 
@@ -321,9 +321,9 @@ h2 {
   margin-bottom: .5rem;
   border-radius: 50%;
   background-color: white;
-  -webkit-box-shadow: 0px 0px 6px 0px rgba(0, 0, 0, 0.5);
-  -moz-box-shadow: 0px 0px 6px 0px rgba(0, 0, 0, 0.5);
-  box-shadow: 0px 0px 6px 0px rgba(0, 0, 0, 0.5);
+  -webkit-box-shadow: 0 0 6px 0 rgba(0, 0, 0, 0.5);
+  -moz-box-shadow: 0 0 6px 0 rgba(0, 0, 0, 0.5);
+  box-shadow: 0 0 6px 0 rgba(0, 0, 0, 0.5);
   background-image: url("../video/EDUARDO.webp");
   background-size: cover;
   background-position: 0px -20px; }
@@ -335,9 +335,9 @@ h2 {
   margin-bottom: .5rem;
   border-radius: 50%;
   background-color: white;
-  -webkit-box-shadow: 0px 0px 6px 0px rgba(0, 0, 0, 0.5);
-  -moz-box-shadow: 0px 0px 6px 0px rgba(0, 0, 0, 0.5);
-  box-shadow: 0px 0px 6px 0px rgba(0, 0, 0, 0.5);
+  -webkit-box-shadow: 0 0 6px 0 rgba(0, 0, 0, 0.5);
+  -moz-box-shadow: 0 0 6px 0 rgba(0, 0, 0, 0.5);
+  box-shadow: 0 0 6px 0 rgba(0, 0, 0, 0.5);
   background-image: url("../video/CRISTINACARMEN.webp");
   background-size: cover;
   background-position: 0px -25px; }
@@ -349,9 +349,9 @@ h2 {
   margin-bottom: .5rem;
   border-radius: 50%;
   background-color: white;
-  -webkit-box-shadow: 0px 0px 6px 0px rgba(0, 0, 0, 0.5);
-  -moz-box-shadow: 0px 0px 6px 0px rgba(0, 0, 0, 0.5);
-  box-shadow: 0px 0px 6px 0px rgba(0, 0, 0, 0.5);
+  -webkit-box-shadow: 0 0 6px 0 rgba(0, 0, 0, 0.5);
+  -moz-box-shadow: 0 0 6px 0 rgba(0, 0, 0, 0.5);
+  box-shadow: 0 0 6px 0 rgba(0, 0, 0, 0.5);
   background-image: url("../video/FERNANDO.webp");
   background-size: cover; }
 
@@ -362,9 +362,9 @@ h2 {
   margin-bottom: .5rem;
   border-radius: 50%;
   background-color: white;
-  -webkit-box-shadow: 0px 0px 6px 0px rgba(0, 0, 0, 0.5);
-  -moz-box-shadow: 0px 0px 6px 0px rgba(0, 0, 0, 0.5);
-  box-shadow: 0px 0px 6px 0px rgba(0, 0, 0, 0.5);
+  -webkit-box-shadow: 0 0 6px 0 rgba(0, 0, 0, 0.5);
+  -moz-box-shadow: 0 0 6px 0 rgba(0, 0, 0, 0.5);
+  box-shadow: 0 0 6px 0 rgba(0, 0, 0, 0.5);
   background-image: url("../video/ZENAIDA.webp");
   background-size: cover;
   background-position: 0px -20px; }
@@ -376,9 +376,9 @@ h2 {
   margin-bottom: .5rem;
   border-radius: 50%;
   background-color: white;
-  -webkit-box-shadow: 0px 0px 6px 0px rgba(0, 0, 0, 0.5);
-  -moz-box-shadow: 0px 0px 6px 0px rgba(0, 0, 0, 0.5);
-  box-shadow: 0px 0px 6px 0px rgba(0, 0, 0, 0.5);
+  -webkit-box-shadow: 0 0 6px 0 rgba(0, 0, 0, 0.5);
+  -moz-box-shadow: 0 0 6px 0 rgba(0, 0, 0, 0.5);
+  box-shadow: 0 0 6px 0 rgba(0, 0, 0, 0.5);
   background-image: url("../video/antonioprofe.webp");
   background-size: cover; }
 
@@ -389,9 +389,9 @@ h2 {
   margin-bottom: .5rem;
   border-radius: 50%;
   background-color: white;
-  -webkit-box-shadow: 0px 0px 6px 0px rgba(0, 0, 0, 0.5);
-  -moz-box-shadow: 0px 0px 6px 0px rgba(0, 0, 0, 0.5);
-  box-shadow: 0px 0px 6px 0px rgba(0, 0, 0, 0.5);
+  -webkit-box-shadow: 0 0 6px 0 rgba(0, 0, 0, 0.5);
+  -moz-box-shadow: 0 0 6px 0 rgba(0, 0, 0, 0.5);
+  box-shadow: 0 0 6px 0 rgba(0, 0, 0, 0.5);
   background-image: url("../video/PABLOPROFESOR.webp");
   background-size: cover;
   background-position: 0px -20px; }
@@ -403,9 +403,9 @@ h2 {
   margin-bottom: .5rem;
   border-radius: 50%;
   background-color: white;
-  -webkit-box-shadow: 0px 0px 6px 0px rgba(0, 0, 0, 0.5);
-  -moz-box-shadow: 0px 0px 6px 0px rgba(0, 0, 0, 0.5);
-  box-shadow: 0px 0px 6px 0px rgba(0, 0, 0, 0.5);
+  -webkit-box-shadow: 0 0 6px 0 rgba(0, 0, 0, 0.5);
+  -moz-box-shadow: 0 0 6px 0 rgba(0, 0, 0, 0.5);
+  box-shadow: 0 0 6px 0 rgba(0, 0, 0, 0.5);
   background-image: url("../video/RAFA.webp");
   background-size: cover; }
 
@@ -416,9 +416,9 @@ h2 {
   margin-bottom: .5rem;
   border-radius: 50%;
   background-color: white;
-  -webkit-box-shadow: 0px 0px 6px 0px rgba(0, 0, 0, 0.5);
-  -moz-box-shadow: 0px 0px 6px 0px rgba(0, 0, 0, 0.5);
-  box-shadow: 0px 0px 6px 0px rgba(0, 0, 0, 0.5);
+  -webkit-box-shadow: 0 0 6px 0 rgba(0, 0, 0, 0.5);
+  -moz-box-shadow: 0 0 6px 0 rgba(0, 0, 0, 0.5);
+  box-shadow: 0 0 6px 0 rgba(0, 0, 0, 0.5);
   background-image: url("../video/ROCIO.webp");
   background-size: cover;
   background-position: 0px -15px; }
@@ -430,9 +430,9 @@ h2 {
   margin-bottom: .5rem;
   border-radius: 50%;
   background-color: white;
-  -webkit-box-shadow: 0px 0px 6px 0px rgba(0, 0, 0, 0.5);
-  -moz-box-shadow: 0px 0px 6px 0px rgba(0, 0, 0, 0.5);
-  box-shadow: 0px 0px 6px 0px rgba(0, 0, 0, 0.5);
+  -webkit-box-shadow: 0 0 6px 0 rgba(0, 0, 0, 0.5);
+  -moz-box-shadow: 0 0 6px 0 rgba(0, 0, 0, 0.5);
+  box-shadow: 0 0 6px 0 rgba(0, 0, 0, 0.5);
   background-image: url("../video/JUANJOPROFESOR.webp");
   background-size: cover;
   background-position: 0px -15px; }
@@ -444,9 +444,9 @@ h2 {
   margin-bottom: .5rem;
   border-radius: 50%;
   background-color: white;
-  -webkit-box-shadow: 0px 0px 6px 0px rgba(0, 0, 0, 0.5);
-  -moz-box-shadow: 0px 0px 6px 0px rgba(0, 0, 0, 0.5);
-  box-shadow: 0px 0px 6px 0px rgba(0, 0, 0, 0.5);
+  -webkit-box-shadow: 0 0 6px 0 rgba(0, 0, 0, 0.5);
+  -moz-box-shadow: 0 0 6px 0 rgba(0, 0, 0, 0.5);
+  box-shadow: 0 0 6px 0 rgba(0, 0, 0, 0.5);
   background-image: url("../video/JAIME.webp");
   background-size: cover; }
 
