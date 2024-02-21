@@ -216,6 +216,10 @@ h2 {
     @include contendorEspecialista("../video/ROCIO.webp");
     background-position: 0px -15px;
 }
+.container-alumno--29 {
+    @include contendorEspecialista("../video/JUANJOPROFESOR.webp");
+    background-position: 0px -15px;
+}
 
 .container-alumno--21 {
     @include contendorEspecialista("../video/JAIME.webp");
